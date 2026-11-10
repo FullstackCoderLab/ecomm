@@ -1,0 +1,15 @@
+com\ecomm\gateway\loadbalancer\EurekaLoadBalancerServiceImpl.class
+com\ecomm\gateway\config\GatewayProperties$Services.class
+com\ecomm\gateway\config\EurekaConfig.class
+com\ecomm\gateway\config\CorsConfig.class
+com\ecomm\gateway\loadbalancer\LoadBalancerService.class
+com\ecomm\gateway\config\GatewayProperties$Loadbalancer.class
+com\ecomm\gateway\config\GatewayProperties.class
+com\ecomm\gateway\filter\GatewayLoggingFilter.class
+com\ecomm\gateway\ECommApiGatewayApplication.class
+com\ecomm\gateway\config\GatewayProperties$Http.class
+com\ecomm\gateway\config\HttpClientConfig.class
+com\ecomm\gateway\config\HttpClientConfig$PassThroughResponseErrorHandler.class
+com\ecomm\gateway\loadbalancer\ServiceInstanceInfo.class
+com\ecomm\gateway\controller\GatewayDashboardController.class
+com\ecomm\gateway\controller\GatewayProxyController.class
